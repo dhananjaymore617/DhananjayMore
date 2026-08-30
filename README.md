@@ -1,5 +1,9 @@
 <h1 align="center">👋 Welcome to My GitHub!</h1>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+Dhananjay+More" />
+</h1>
+
 <h3 align="center">✨ Exploring Data • Solving Problems • Turning Insights into Impact ✨</h3>
 
 ---
