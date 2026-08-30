@@ -42,13 +42,22 @@ I believe data is not just numbers — it's a language, and I enjoy translating 
 
 <p>
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
 </p>
 
-### 🔸 Programming & Scripting
+### 🔸 Programming & Libraries
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+### 🔸 Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
 </p>
 
 ### 🔸 Data Cleaning & Modelling
@@ -58,11 +67,14 @@ I believe data is not just numbers — it's a language, and I enjoy translating 
 <img src="https://img.shields.io/badge/Data%20Modelling-4B8BBE?style=for-the-badge"/>
 </p>
 
-### 🔸 Business & Reporting Tools
+### 🔸 Core Concepts & Skills
 
 <p>
-<img src="https://img.shields.io/badge/KPI%20Analysis-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-5C6BC0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Modelling-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KPI%20Analysis-6A5ACD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Business%20Analysis-00897B?style=for-the-badge"/>
 </p>
 
@@ -78,48 +90,12 @@ I believe data is not just numbers — it's a language, and I enjoy translating 
 ## 🌐 Connect With Me
 
 <p>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/dhananjaymore617/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="dhananjaymore617@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
-
----
-
-## 🔥 GitHub Stats & Activity
-
-## 🏆 GitHub Trophies:
-
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
-### 📅 Contribution Streak
-
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical"/>
-</p>
-
-### 📈 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"/>
-</p>
-
-### 🗓️ Activity Graph
-
-<p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact"/>
-</p>
-
----
-
-### ✨ Random Dev Quote
-
-<p>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 ---
